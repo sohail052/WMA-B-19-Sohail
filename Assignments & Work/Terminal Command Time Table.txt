@@ -1,0 +1,17 @@
+PS D:\Laptop - Dec 2024\03. Coding\SMIT-WMA-Course-B19 Bahadurabad\WMA B-19 Sohail> git add .
+PS D:\Laptop - Dec 2024\03. Coding\SMIT-WMA-Course-B19 Bahadurabad\WMA B-19 Sohail> git commit -m "Time Table assignment upload"
+[main 2aa24f2] Time Table assignment upload
+ 1 file changed, 81 insertions(+)
+ create mode 100644 Assignments & Work/HTML/timetable.html
+PS D:\Laptop - Dec 2024\03. Coding\SMIT-WMA-Course-B19 Bahadurabad\WMA B-19 Sohail> git push -u origin main 
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (5/5), 1.09 KiB | 123.00 KiB/s, done.
+Total 5 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/sohail052/WMA-B-19-Sohail.git
+   1a355fb..2aa24f2  main -> main
+branch 'main' set up to track 'origin/main'.
+PS D:\Laptop - Dec 2024\03. Coding\SMIT-WMA-Course-B19 Bahadurabad\WMA B-19 Sohail>
