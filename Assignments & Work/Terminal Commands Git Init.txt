@@ -1,0 +1,39 @@
+IDE TERMINAL CODE FOR REPO CREATION & INITIAL COMMIT
+****************************************************
+
+PS D:\Laptop - Dec 2024\03. Coding\SMIT-WMA-Course-B19 Bahadurabad\WMA B-19 Sohail> git init
+Initialized empty Git repository in D:/Laptop - Dec 2024/03. Coding/SMIT-WMA-Course-B19 Bahadurabad/WMA B-19 Sohail/.git/
+PS D:\Laptop - Dec 2024\03. Coding\SMIT-WMA-Course-B19 Bahadurabad\WMA B-19 Sohail> git add .
+PS D:\Laptop - Dec 2024\03. Coding\SMIT-WMA-Course-B19 Bahadurabad\WMA B-19 Sohail> git commit -m "Initial commit via vs code terminal"
+[master (root-commit) ee88669] Initial commit via vs code terminal
+ 7 files changed, 229 insertions(+)
+ create mode 100644 Assignments & Work/HTML/Readme.txt
+ create mode 100644 Assignments & Work/HTML/Sohail-Assignent-1-Html-Code.png
+ create mode 100644 Assignments & Work/HTML/Sohail-Assignent-1-Output.jpeg
+ create mode 100644 Assignments & Work/HTML/index.html
+ create mode 100644 Assignments & Work/HTML/style.css
+ create mode 100644 Assignments & Work/HTML/test.html
+ create mode 100644 Assignments & Work/Material/Books/Wiley.HTML.and.CSS.Oct.2011.pdf
+PS D:\Laptop - Dec 2024\03. Coding\SMIT-WMA-Course-B19 Bahadurabad\WMA B-19 Sohail> git remote add origin https://github.com/sohail052/WMA-B-19-Sohail.git
+PS D:\Laptop - Dec 2024\03. Coding\SMIT-WMA-Course-B19 Bahadurabad\WMA B-19 Sohail> git branch -v
+* master ee88669 Initial commit via vs code terminal
+PS D:\Laptop - Dec 2024\03. Coding\SMIT-WMA-Course-B19 Bahadurabad\WMA B-19 Sohail> git branch
+* master
+PS D:\Laptop - Dec 2024\03. Coding\SMIT-WMA-Course-B19 Bahadurabad\WMA B-19 Sohail> git remote show origin 
+* remote origin
+  Fetch URL: https://github.com/sohail052/WMA-B-19-Sohail.git
+  Push  URL: https://github.com/sohail052/WMA-B-19-Sohail.git
+  HEAD branch: (unknown)
+PS D:\Laptop - Dec 2024\03. Coding\SMIT-WMA-Course-B19 Bahadurabad\WMA B-19 Sohail> git branch -m master main
+PS D:\Laptop - Dec 2024\03. Coding\SMIT-WMA-Course-B19 Bahadurabad\WMA B-19 Sohail> git push -u origin main 
+Enumerating objects: 13, done.
+Counting objects: 100% (13/13), done.  
+Delta compression using up to 4 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (13/13), 19.02 MiB | 1.39 MiB/s, done.  
+Total 13 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/sohail052/WMA-B-19-Sohail.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS D:\Laptop - Dec 2024\03. Coding\SMIT-WMA-Course-B19 Bahadurabad\WMA B-19 Sohail> 
