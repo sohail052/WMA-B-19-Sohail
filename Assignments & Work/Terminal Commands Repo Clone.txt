@@ -1,0 +1,11 @@
+PS D:\Laptop - Dec 2024\03. Coding\SMIT-WMA-Course-B19 Bahadurabad\WMA B-19 Sohail> cd "Assignments & Work/HTML"
+PS D:\Laptop - Dec 2024\03. Coding\SMIT-WMA-Course-B19 Bahadurabad\WMA B-19 Sohail\Assignments & Work\HTM> cd "../"
+PS D:\Laptop - Dec 2024\03. Coding\SMIT-WMA-Course-B19 Bahadurabad\WMA B-19 Sohail\Assignments & Work> git clone "https://github.com/Abdullah-MotiWala/Batch-19-weekend-06-09.git"
+Cloning into 'Batch-19-weekend-06-09'...
+remote: Enumerating objects: 29, done.
+remote: Counting objects: 100% (29/29), done.
+remote: Compressing objects: 100% (19/19), done.
+remote: Total 29 (delta 5), reused 29 (delta 5), pack-reused 0 (from 0)
+Receiving objects: 100% (29/29), 16.03 KiB | 1.78 MiB/s, done.
+Resolving deltas: 100% (5/5), done.
+PS D:\Laptop - Dec 2024\03. Coding\SMIT-WMA-Course-B19 Bahadurabad\WMA B-19 Sohail\Assignments & Work>    
