@@ -1,5 +1,11 @@
 25-Dec-2025
 
 - GridBox.
-- Inheritance in css.
+- Inheritance in css. 
 - 
+
+Created a style sheet with class .m10 and margin 10px
+If anyone wants to give 10px in 
+
+4 variants margin, padding each,
+total 28 classes, so that if we connect them with any html class, it'll inherit all styles accordingly.
