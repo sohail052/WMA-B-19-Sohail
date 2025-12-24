@@ -1,0 +1,69 @@
+/* Start of Css code */
+
+* {
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: rgb(191, 20, 191);
+    background-color: #2e0052;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 90px;
+}
+
+.cell0 {
+    background-color: #EDEAFA;
+}
+
+.cell1 {
+    background-color: #CEC5F2;
+}
+
+.cell2 {
+    background-color: #AE9FE9;
+}
+
+.cell3 {
+    background-color: #8F7AE1;
+}
+
+.cell4 {
+    background-color: #6F55D8;
+}
+
+.cell5 {
+    background-color: #5D3FD3;
+    color: white;
+}
+
+.cell6 {
+    background-color: #4127AA;
+    color: white;
+}
+
+.cell7 {
+    background-color: #331E85;
+    color: white;
+}
+
+.cell8 {
+    background-color: #241660;
+    color: white;
+}
+
+.cell9 {
+    background-color: #160D3A;
+    color: white;
+}
+
+.tableCell {
+    padding: 20px;
+}
+
+/* End of Css code */
