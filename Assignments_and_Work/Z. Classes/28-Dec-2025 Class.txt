@@ -1,0 +1,9 @@
+Topics discussed & taught
+
+Grid in bootstrap
+switch in bootstrap
+accordion in bootstrap
+bread crumb in bootstrap
+
+Assignment: upload assginment on pages.github max by tuesday, no new commit after that.
+Design that page as describe using bootstrap. md col 
