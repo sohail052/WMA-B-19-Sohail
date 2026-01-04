@@ -1,0 +1,3 @@
+Sir Abdullah Motiwala wasn't present in class yesterday.
+Another Sir was taking revision class of bootstrap.
+Little introduction to javascript class.
