@@ -1,0 +1,7 @@
+Maths Operations in js.
+Bodmas in js.
+Alerts in js.
+camelCase & snake_case & PascalCase in js.
+Keywords, Methods & Funtions in js (very little overview)
+Reassigning variables in js. (e.g. value += 1; | +=, -+, *=,/= |)
+Pre-increment & Post-Incrementin js.
