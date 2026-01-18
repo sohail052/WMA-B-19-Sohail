@@ -1,0 +1,4 @@
+I didn't attended yesterday class due to illness.
+Topics taught in yesterday class.
+- if else statement
+- let const variables in js.

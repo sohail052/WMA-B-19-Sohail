@@ -1,0 +1,3 @@
+- let const revesion.
+- object and arrays in js.
+- assignment: create an array > parse input name from user > store in array > call in alert js.
