@@ -1,0 +1,9 @@
+Topics discussed & taught
+
+Array Methods
+Splice method
+Slice method
+pop, push, shift, unshift methods in arrays.
+Their cut copy and pasting in browser console.log.
+Deep Copy & Shallow Copy in javascript.
+Slice vs Splice real life examples.

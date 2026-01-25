@@ -1,0 +1,5 @@
+Topics discussed & taught
+
+Loops
+For Loops
+Create table using for loop.
