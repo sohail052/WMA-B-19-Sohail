@@ -6,4 +6,4 @@ Create table using for loop.
 Assignment: Take input from user and print table in console using for loop.
 Performing for-loop on an array to print array consecutively.
 Break and Continue in loops in javascript.
-Flags in javascript (Revise Chapter 19)
+Flags in javascript (Revise Chapter 19) 

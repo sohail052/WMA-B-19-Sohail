@@ -1,0 +1,9 @@
+Topics discussed & taught
+
+Flags in javascipt.
+loops revison in array.
+creating string of sentence and testing different method of js on it.
+.indexOf() method.
+.lastIndexOf() method
+truthy falsy value in js
+converting 
