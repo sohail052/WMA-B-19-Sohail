@@ -1,0 +1,13 @@
+Topics discussed & taught
+
+Revision yesterday.
+You must read chapter 23 of html and css book.
+taking email from username.
+applying slice method (copy index of email name before @ and copy it in other usernam variable.)
+Class in Javascript used Caps Letter
+Math is a class in js. You always right it in Caps letter.
+Math.round() class in Js. (nearest roundoff integer).
+Math.ceil() = roundup to 10
+Math.floor() = rounddown to 10
+Math.random() = random number generation in javascript.
+Math.random(var * 6) = for one decimal number.
