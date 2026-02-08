@@ -1,0 +1,5 @@
+Dates fetching in js.
+months, day.
+Date= .toLocaleString
+page 100 practice
+create arrays of days in a week.
