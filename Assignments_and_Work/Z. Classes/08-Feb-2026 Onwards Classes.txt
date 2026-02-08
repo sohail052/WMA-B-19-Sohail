@@ -1,0 +1,14 @@
+From Now Onwards, we will update all lectures in this one file.
+
+Dates methods in javascript, these are not in js book. They're advanced js concepts.
+UTCString, UTCDate, getTodayYear
+getYear, setYear
+split() method in js? converts string's each value to array. Then index working is possible.
+variable.join("") method in js? It joins back the splitted array words into combined words string.
+unix time
+variable.getTime() This gives till the earths beginning or 1970's time till now in miliseconds.
+We will use getTime() function to get time in miliseconds.
+Then we will subtract t2 minus t1 to calculate the time difference of this project.
+Convert this ms to seconds by dividing by 1000.
+Then we'll use logic of lower case using if else statement.
+Time consuming if else statement if  more than 10 seconds then loose.
