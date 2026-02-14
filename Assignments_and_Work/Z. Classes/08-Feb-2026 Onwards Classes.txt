@@ -12,3 +12,22 @@ Then we will subtract t2 minus t1 to calculate the time difference of this proje
 Convert this ms to seconds by dividing by 1000.
 Then we'll use logic of lower case using if else statement.
 Time consuming if else statement if  more than 10 seconds then loose.
+
+14th February 2026 - Saturday
+
+- Today Sir Abdullah Motiwala is absent.
+- There's a new Sir named Sir Muttahir who taught as functions in javascript.
+- first class functions
+- how to call a function.
+- he gave us two tasks in class.
+- Task 1: Write a function to Print "Welcome to javascript".
+- Task 2: Write a function to Print your name along with javascript value.
+- Anonymous functions: creating a function inside a variable is known as Anonymous function.
+- Async functions in javascripts.
+- Switch statements in javascript.
+- Another task to create function of currenty converter / counter.
+- isNaN keyword in javascript (learned something new today.)
+
+15th February 2026 - Sunday
+
+- Today on 14-02-2026 in class students have been informed about class off due to mega entrance test conducting.
