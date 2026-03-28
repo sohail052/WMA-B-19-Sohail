@@ -31,3 +31,18 @@ Time consuming if else statement if  more than 10 seconds then loose.
 15th February 2026 - Sunday
 
 - Today on 14-02-2026 in class students have been informed about class off due to mega entrance test conducting.
+
+28th March 2026 - Saturday
+
+- Objects in JS.
+- upsert = insert or update new values in js objects
+- "in" method in js objects.
+- Note: Ready pages around 227 in your js book.
+- "This" method in js object. (contains details of an object)
+- context window in javascript (related to this concept)
+- blue print of js objects (contructors)
+- splice, slice aur push jese methods apne array k constructors k pas jaty hain use hone k liye.
+- toNumber, toString method apni array k constructors k pas jaaty thy use hone k liye. used if and only if available.
+- prototype in js objects.
+- HasOwnProperty in JS objects.
+- 
